@@ -177,10 +177,10 @@ Below is a summary of the key files for this project and their purpose:
 
 ## Team Members
 
+- [Joshua Martinez](https://github.com/JDMartinez1531)
 - [Yadira Tamarit](https://github.com/ystamaritq)
 - [Stephen Guzman](https://github.com/steveo9219)
-- [William Hanna](https://github.com/wrhcodecamp)
-- [Joshua Martinez](https://github.com/JDMartinez1531)
+
 
 ---
 
